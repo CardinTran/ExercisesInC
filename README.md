@@ -1,1 +1,1 @@
-# DifferentShortsExerciseInC
+# ExercisesInC
